@@ -1,0 +1,83 @@
+🔹 1. Basics (syntax, control flow, operators)
+
+Write a program that prints the first 10 numbers of the Fibonacci sequence.
+
+Reverse a string without using built-in reverse methods.
+
+Write a program that checks if a number is prime.
+
+Count the number of vowels in a given string.
+
+Find the largest of three numbers using only if-else.
+
+🔹 2. Arrays & Strings
+
+Implement a function to remove duplicates from an array.
+
+Rotate an array to the right by k steps.
+
+Check if two strings are anagrams.
+
+Find the first non-repeating character in a string.
+
+Implement matrix multiplication of two 2D arrays.
+
+🔹 3. Object-Oriented Programming
+
+Create a BankAccount class with deposit, withdraw, and getBalance methods.
+
+Implement inheritance with a Shape base class and Circle and Rectangle subclasses (with area/perimeter methods).
+
+Demonstrate method overloading and overriding with a simple example.
+
+Implement a simple Singleton class.
+
+Create an interface Playable with a method play(). Have Guitar and Piano classes implement it.
+
+🔹 4. Collections & Generics
+
+Use a HashMap to count word frequencies in a sentence.
+
+Write a method that takes a List<Integer> and returns the second largest element.
+
+Implement a generic class Box<T> that can store and retrieve objects.
+
+Remove duplicates from a List while maintaining order.
+
+Sort a list of Person objects by age (with Comparator).
+
+🔹 5. Exception Handling & I/O
+
+Write a program that reads lines from a text file and prints them.
+
+Implement a custom exception InvalidAgeException. Throw it if someone tries to set age < 0.
+
+Handle multiple exceptions (NumberFormatException, ArrayIndexOutOfBoundsException) in a single program.
+
+Write a program that copies the contents of one file to another.
+
+Parse integers from a file, sum them, and handle invalid inputs gracefully.
+
+🔹 6. Concurrency
+
+Create a thread that prints numbers 1–10 with a 1-second delay.
+
+Implement a producer-consumer problem with wait() and notify().
+
+Use ExecutorService to run 5 tasks in parallel.
+
+Write a thread-safe Counter class using synchronized.
+
+Demonstrate the difference between Runnable and Callable.
+
+🔹 7. Other Key Fundamentals
+
+Implement a recursive factorial function.
+
+Demonstrate the difference between == and .equals().
+
+Write a program to serialize and deserialize a Java object.
+
+Use Optional to handle null values safely.
+
+Implement a simple Java 8 Stream pipeline to filter and map a list.
